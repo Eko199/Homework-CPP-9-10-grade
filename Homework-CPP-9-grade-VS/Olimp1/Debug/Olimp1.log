@@ -1,5 +1,0 @@
-﻿  Source.cpp
-C:\Users\asusv\Documents\School\Visual Studio projects\Olimp1\Source.cpp(9,20): warning C4018: '<': signed/unsigned mismatch
-C:\Users\asusv\Documents\School\Visual Studio projects\Olimp1\Source.cpp(21,21): warning C4018: '<': signed/unsigned mismatch
-C:\Users\asusv\Documents\School\Visual Studio projects\Olimp1\Source.cpp(31,20): warning C4018: '<': signed/unsigned mismatch
-  Olimp1.vcxproj -> C:\Users\asusv\Documents\School\Visual Studio projects\Debug\Olimp1.exe
