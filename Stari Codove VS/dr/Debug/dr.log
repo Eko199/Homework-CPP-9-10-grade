@@ -1,0 +1,4 @@
+﻿  dr.cpp
+C:\Users\asusv\Documents\School\Stari Codove\dr.cpp(17): warning C4715: 'B': not all control paths return a value
+C:\Users\asusv\Documents\School\Stari Codove\dr.cpp(24): warning C4715: 'C': not all control paths return a value
+  dr.vcxproj -> C:\Users\asusv\Documents\School\Stari Codove\Stari Codove VS\Debug\dr.exe
